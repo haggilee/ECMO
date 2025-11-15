@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "什么是ECMO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1e0b1813099a6528",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbf02ac7b6dbb349",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "什么是ECMO"
             }
           }
         ]
@@ -196,11 +180,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5defef0d0274b7d0",
   "lastOpenFiles": [
-    "欢迎.md"
+    "欢迎.md",
+    "什么是ECMO.md"
   ]
 }
